@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Kağan Berke Maktav</h1>
+<h3 align="center">A passionate fullstack developer from Turkey</h3>
+
+- 🔭 I’m currently working on [my personal site](https://www.berkemaktav.com/)
+
+- 📫 How to reach me **info@berkemaktav.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/berkemaktav) 
